@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/konstantinbaikov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="konstantinbaikov" height="30" width="40" /></a>
 </p>
 
-
+![stats](https://github-readme-stats.vercel.app/api?username=kbaikov&show_icons=true&theme=solarized-dark)
 
 ![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kbaikov&theme=solarized_dark)
 ![most-commit-language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kbaikov&theme=solarized_dark)
