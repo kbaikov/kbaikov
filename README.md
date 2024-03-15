@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kbaikov&label=Profile%20views&color=0e75b6&style=flat" alt="kbaikov" /> </p>
 
-- 📄 Know about my experiences [https://registry.jsonresume.org/kbaikov](https://registry.jsonresume.org/kbaikov)
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/konstantinbaikov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="konstantinbaikov" height="30" width="40" /></a>
